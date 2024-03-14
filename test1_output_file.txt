@@ -1,0 +1,238 @@
+
+BookID = 48Title = " "Data Structures and Algorithms""Author = " "Sartaj Sahni""Availability = "Yes"BorrowedBy = NoneReservations = []
+
+Book 48 borrowed by Patron 120
+
+Book 101 borrowed by Patron 132
+
+Book 48 Reserved for Patron 144
+
+Book 48 Reserved for Patron 140
+
+Book 48 Reserved for Patron 142
+
+Book 12 borrowed by Patron 138
+
+Book 12 Reserved for Patron 150
+
+Book 12 Reserved for Patron 162
+Book 48  Returned by Patron 120.
+Book 48 Allotted to Patron 142
+BookID = 6Title = " "Database Management Systems""Author = " "Raghu Ramakrishnan""Availability = "Yes"BorrowedBy = "None"Reservations = []
+
+BookID = 12Title = " "Artificial Intelligence: A Modern Approach""Author = " "Stuart Russell""Availability = "No"BorrowedBy = "138"Reservations = [162, 150]
+
+Book 12 is no longer available. Reservations made by Patrons 162, 150 have been cancelled.
+
+Color Flip Count: 6
+
+Book 73 borrowed by Patron 111
+
+Book 73 Reserved for Patron 52
+
+Book 25 borrowed by Patron 153
+
+BookID = 25Title = " "Computer Networks""Author = " "Andrew S. Tanenbaum""Availability = "No"BorrowedBy = "153"Reservations = []
+
+BookID = 48Title = " "Data Structures and Algorithms""Author = " "Sartaj Sahni""Availability = "No"BorrowedBy = "142"Reservations = [144, 140]
+
+BookID = 73Title = " "Introduction to the Theory of Computation""Author = " "Michael Sipser""Availability = "No"BorrowedBy = "111"Reservations = [52]
+
+BookID = 101Title = " "Introduction to Algorithms""Author = " "Thomas H. Cormen""Availability = "No"BorrowedBy = "132"Reservations = []
+
+BookID = 115Title = " "Operating Systems: Internals and Design Principles""Author = " "William Stallings""Availability = "Yes"BorrowedBy = "None"Reservations = []
+
+BookID = 125Title = " "Computer Organization and Design""Author = " "David A. Patterson""Availability = "Yes"BorrowedBy = "None"Reservations = []
+
+BookID = 132Title = " "Operating System Concepts""Author = " "Abraham Silberschatz""Availability = "Yes"BorrowedBy = "None"Reservations = []
+
+Book 25 Reserved for Patron 171
+
+Book 132 borrowed by Patron 2
+
+BookID = 48Title = " "Data Structures and Algorithms""Author = " "Sartaj Sahni""Availability = "No"BorrowedBy = "142"Reservations = [144, 140]
+
+Book 101 Reserved for Patron 18
+
+Book 210 borrowed by Patron 210
+
+Book 73 Reserved for Patron 43
+
+BookID = 210Title = " "Machine Learning: A Probabilistic Perspective""Author = " "Kevin P. Murphy""Availability = "Yes"BorrowedBy = 210Reservations = []
+
+Book 210 Reserved for Patron 34
+
+Color Flip Count: 18
+
+Book 125 is no longer available.
+
+Book 115 is no longer available.
+
+Book 210 is no longer available. Reservations made by Patrons 34 have been cancelled.
+
+Color Flip Count: 19
+
+Book 25 is no longer available. Reservations made by Patrons 171 have been cancelled.
+
+Book 80 is no longer available.
+
+Color Flip Count: 21
+Program Terminated.
+BookID = 48Title = " "Data Structures and Algorithms""Author = " "Sartaj Sahni""Availability = "Yes"BorrowedBy = NoneReservations = []
+
+Book 48 borrowed by Patron 120
+
+Book 101 borrowed by Patron 132
+
+Book 48 Reserved for Patron 144
+
+Book 48 Reserved for Patron 140
+
+Book 48 Reserved for Patron 142
+
+Book 12 borrowed by Patron 138
+
+Book 12 Reserved for Patron 150
+
+Book 12 Reserved for Patron 162
+Book 48  Returned by Patron 120.
+Book 48 Allotted to Patron 142
+BookID = 6Title = " "Database Management Systems""Author = " "Raghu Ramakrishnan""Availability = "Yes"BorrowedBy = "None"Reservations = []
+
+BookID = 12Title = " "Artificial Intelligence: A Modern Approach""Author = " "Stuart Russell""Availability = "No"BorrowedBy = "138"Reservations = [162, 150]
+
+Book 12 is no longer available. Reservations made by Patrons 162, 150 have been cancelled.
+
+Color Flip Count: 6
+
+Book 73 borrowed by Patron 111
+
+Book 73 Reserved for Patron 52
+
+Book 25 borrowed by Patron 153
+
+BookID = 25Title = " "Computer Networks""Author = " "Andrew S. Tanenbaum""Availability = "No"BorrowedBy = "153"Reservations = []
+
+BookID = 48Title = " "Data Structures and Algorithms""Author = " "Sartaj Sahni""Availability = "No"BorrowedBy = "142"Reservations = [144, 140]
+
+BookID = 73Title = " "Introduction to the Theory of Computation""Author = " "Michael Sipser""Availability = "No"BorrowedBy = "111"Reservations = [52]
+
+BookID = 101Title = " "Introduction to Algorithms""Author = " "Thomas H. Cormen""Availability = "No"BorrowedBy = "132"Reservations = []
+
+BookID = 115Title = " "Operating Systems: Internals and Design Principles""Author = " "William Stallings""Availability = "Yes"BorrowedBy = "None"Reservations = []
+
+BookID = 125Title = " "Computer Organization and Design""Author = " "David A. Patterson""Availability = "Yes"BorrowedBy = "None"Reservations = []
+
+BookID = 132Title = " "Operating System Concepts""Author = " "Abraham Silberschatz""Availability = "Yes"BorrowedBy = "None"Reservations = []
+
+Book 25 Reserved for Patron 171
+
+Book 132 borrowed by Patron 2
+
+BookID = 48Title = " "Data Structures and Algorithms""Author = " "Sartaj Sahni""Availability = "No"BorrowedBy = "142"Reservations = [144, 140]
+
+Book 101 Reserved for Patron 18
+
+Book 210 borrowed by Patron 210
+
+Book 73 Reserved for Patron 43
+
+BookID = 210Title = " "Machine Learning: A Probabilistic Perspective""Author = " "Kevin P. Murphy""Availability = "Yes"BorrowedBy = 210Reservations = []
+
+Book 210 Reserved for Patron 34
+
+Color Flip Count: 18
+
+Book 125 is no longer available.
+
+Book 115 is no longer available.
+
+Book 210 is no longer available. Reservations made by Patrons 34 have been cancelled.
+
+Color Flip Count: 19
+
+Book 25 is no longer available. Reservations made by Patrons 171 have been cancelled.
+
+Book 80 is no longer available.
+
+Color Flip Count: 21
+Program Terminated.
+BookID = 48Title = " "Data Structures and Algorithms""Author = " "Sartaj Sahni""Availability = "Yes"BorrowedBy = NoneReservations = []
+
+Book 48 borrowed by Patron 120
+
+Book 101 borrowed by Patron 132
+
+Book 48 Reserved for Patron 144
+
+Book 48 Reserved for Patron 140
+
+Book 48 Reserved for Patron 142
+
+Book 12 borrowed by Patron 138
+
+Book 12 Reserved for Patron 150
+
+Book 12 Reserved for Patron 162
+Book 48  Returned by Patron 120.
+Book 48 Allotted to Patron 142
+BookID = 6Title = " "Database Management Systems""Author = " "Raghu Ramakrishnan""Availability = "Yes"BorrowedBy = "None"Reservations = []
+
+BookID = 12Title = " "Artificial Intelligence: A Modern Approach""Author = " "Stuart Russell""Availability = "No"BorrowedBy = "138"Reservations = [162, 150]
+
+Book 12 is no longer available. Reservations made by Patrons 162, 150 have been cancelled.
+
+Color Flip Count: 6
+
+Book 73 borrowed by Patron 111
+
+Book 73 Reserved for Patron 52
+
+Book 25 borrowed by Patron 153
+
+BookID = 25Title = " "Computer Networks""Author = " "Andrew S. Tanenbaum""Availability = "No"BorrowedBy = "153"Reservations = []
+
+BookID = 48Title = " "Data Structures and Algorithms""Author = " "Sartaj Sahni""Availability = "No"BorrowedBy = "142"Reservations = [144, 140]
+
+BookID = 73Title = " "Introduction to the Theory of Computation""Author = " "Michael Sipser""Availability = "No"BorrowedBy = "111"Reservations = [52]
+
+BookID = 101Title = " "Introduction to Algorithms""Author = " "Thomas H. Cormen""Availability = "No"BorrowedBy = "132"Reservations = []
+
+BookID = 115Title = " "Operating Systems: Internals and Design Principles""Author = " "William Stallings""Availability = "Yes"BorrowedBy = "None"Reservations = []
+
+BookID = 125Title = " "Computer Organization and Design""Author = " "David A. Patterson""Availability = "Yes"BorrowedBy = "None"Reservations = []
+
+BookID = 132Title = " "Operating System Concepts""Author = " "Abraham Silberschatz""Availability = "Yes"BorrowedBy = "None"Reservations = []
+
+Book 25 Reserved for Patron 171
+
+Book 132 borrowed by Patron 2
+
+BookID = 48Title = " "Data Structures and Algorithms""Author = " "Sartaj Sahni""Availability = "No"BorrowedBy = "142"Reservations = [144, 140]
+
+Book 101 Reserved for Patron 18
+
+Book 210 borrowed by Patron 210
+
+Book 73 Reserved for Patron 43
+
+BookID = 210Title = " "Machine Learning: A Probabilistic Perspective""Author = " "Kevin P. Murphy""Availability = "Yes"BorrowedBy = 210Reservations = []
+
+Book 210 Reserved for Patron 34
+
+Color Flip Count: 18
+
+Book 125 is no longer available.
+
+Book 115 is no longer available.
+
+Book 210 is no longer available. Reservations made by Patrons 34 have been cancelled.
+
+Color Flip Count: 19
+
+Book 25 is no longer available. Reservations made by Patrons 171 have been cancelled.
+
+Book 80 is no longer available.
+
+Color Flip Count: 21
+Program Terminated.
